@@ -1,4 +1,4 @@
 To jest plik tekstowy
-12
+1
+2
 3
-abcdefghijklm
